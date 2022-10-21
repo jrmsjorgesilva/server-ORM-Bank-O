@@ -1,2 +1,2 @@
 "use strict";
-console.log("Bank O | Sua conta com total insegurança e fragilidade a mais de 30 anos no mercado");
+console.log("Bank O | Há mais de 30 anos no mercado");
